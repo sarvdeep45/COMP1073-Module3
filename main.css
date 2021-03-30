@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	background: whitesmoke;
+}
+div {
+	border: 5px solid;
+	padding: 10px;
+	margin-top: 2px;
+}
+img {
+	border: 1px solid;
+	padding: 5px;
+	height: 200px;
+	width: 200px;
+}
+h1 {
+	display: inherit;
+}
