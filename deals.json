@@ -1,0 +1,39 @@
+{
+  "deals": [
+    {
+      "name": "A Godzilla garden gnome",
+      "price": 24.99,
+      "description": "Let those pesky, roving neighborhood gnomes know where they're not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+      "features": "strong, kid's toy",
+      "image": "godzilla.jpg"
+    },
+    {
+      "name": "A desktop refrigerator",
+      "price": 38.00,
+      "description": "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+      "features": "make icecream, keep things cool",
+      "image": "dref.jpg"
+    },
+    {
+      "name": "A suture practice kit",
+      "price": 45.95,
+      "description": "Not quite a game, not quite medical school, this suture training kit will have you fixing up wounds and repairing hems with ease.",
+      "features": "medical kit, useful",
+      "image": "kit.jpg"
+    },
+    {
+      "name": "Dill pickle lip balm",
+      "price": 11.95,
+      "description": "Some people want their mouths to be minty fresh, or sweetly scented. And others just want their lips to have the distinct flavor of something that might accompany a pastrami sandwich.",
+      "features": "tasty, keeps lips wet",
+      "image": "balm.jpg"
+    },
+    {
+      "name": "A pizza hat",
+      "price": 11.62,
+      "description": "Finally, you can indulge in everyone's life-long desire of wearing pizza atop their head. Beware the sprinkled parmesan as you nod or shake your head, though—some might mistake it for dandruff.",
+      "features": "colourful, stunning",
+      "image": "hat.jpg"
+    }
+  ]
+}
